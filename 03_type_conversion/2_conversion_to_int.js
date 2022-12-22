@@ -2,7 +2,7 @@
 
 let result;
 
-result = '4' - '2'; 
+result = '4' - `2`; 
 console.log(result); // 2
 
 result = '4' - 2;
